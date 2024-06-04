@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Flutter 
-- 📫 How to reach me: dartfluet@gmail.com
+- 📫 How to reach me: aliaryan786786@gmail.com
 - ⚡ Fun fact: I spend almost every sunday to watching movies or series.
 
   ### Connect with me:
