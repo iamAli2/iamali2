@@ -24,7 +24,7 @@
 
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,nodejs,figma,express,gradle&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,nodejs,figma,express,react,kotlin,gradle&perline=5)](https://skillicons.dev)
 
 ## 💳 Github Profile Summary Card
 <p align="center">
